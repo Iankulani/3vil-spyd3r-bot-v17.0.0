@@ -1,4 +1,8 @@
 # 3vil-spyd3r-bot-v17.0.0
+
+<img width="800" height="724" alt="evil" src="https://github.com/user-attachments/assets/79a43271-865f-4b4b-91ed-8c35506919c0" />
+
+
 Evil Spyder Bot is a state-of-the-art AI-powered cybersecurity training and command automation platform, developed by Accurate Cyber Defense, designed specifically for ethical security testing, controlled lab environments, and educational purposes. The platform is engineered to strengthen defensive skills, improve incident response readiness, and provide structured cyber drill exercises in a safe and legal environment. Its primary audience includes cybersecurity students, security engineers, instructors, SOC analysts, IT administrators, and academic or corporate training institutions.
 
 With the exponential rise in cyber threats worldwide, there is a growing need for platforms that not only educate but also simulate realistic attack and defense scenarios. Evil Spyder Bot addresses this need by combining adaptive AI intelligence, remote command execution, secure deployment capabilities, and controlled simulation frameworks to ensure users gain practical experience in a safe, supervised environment.
